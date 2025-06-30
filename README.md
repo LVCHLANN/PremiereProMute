@@ -53,6 +53,13 @@ This is useful for editors who want to focus on playback audio without distracti
 `python main.py`
 
 ### 📦 Bundle Into a Standalone .EXE
+**Build Script (Recommended)**
+
+`
+build.bat
+`
+
+**Manual Building**
 
 `
 pyinstaller --onefile --windowed --name PremiereProMute main.py
