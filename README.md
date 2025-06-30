@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D7)
 ![Python](https://img.shields.io/badge/python-3.12+-informational)
-![License](https://img.shields.io/github/license/LVCHLANN/PremiereProMute?cacheBust=1)
+![License](https://img.shields.io/github/license/LVCHLANN/PremiereProMute?style=flat&logo=github)
 
 **PremiereProMute** is a lightweight tray application for Windows that automatically mutes all other system audio when Adobe Premiere Pro starts playing audio — and fades it back in when playback stops.
 
