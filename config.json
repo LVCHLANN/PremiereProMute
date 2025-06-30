@@ -1,0 +1,11 @@
+{
+    "enable_muting": true,
+    "start_on_boot": false,
+    "show_notifications": false,
+    "fade_volume": 10,
+    "fade_duration": 500,
+    "whitelist": [
+        "Discord",
+        "Fortnite"
+    ]
+}
