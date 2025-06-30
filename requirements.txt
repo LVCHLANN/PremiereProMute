@@ -2,3 +2,4 @@ pycaw
 pywin32
 pystray
 pillow
+pyinstaller
