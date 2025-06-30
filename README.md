@@ -3,6 +3,8 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue?style=flat&logo=github)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D7?style=flat&logo=windows)
 ![Python](https://img.shields.io/badge/python-3.12+-3776AB?style=flat&logo=python)
+![DOWNLOADS](https://img.shields.io/github/downloads/LVCHLANN/PremiereProMute/total?style=flat&logo=download&label=Downloads&color=brightgreen)
+![LATEST DOWNLOADS](https://img.shields.io/github/downloads/LVCHLANN/PremiereProMute/latest/total?style=flat&logo=download&label=Latest%20Downloads&color=brightgreen)
 ![License](https://img.shields.io/github/license/LVCHLANN/PremiereProMute?style=flat&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/LVCHLANN/PremiereProMute?style=flat&logo=git)
 ![Stars](https://img.shields.io/github/stars/LVCHLANN/PremiereProMute?style=flat&logo=github)
