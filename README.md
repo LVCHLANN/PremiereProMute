@@ -1,3 +1,7 @@
+# THIS PROJECT HAS BEEN ARCHIVED AND WILL NOT BE UPDATED FURTHER
+### This project may be revived in the future but for now is being archived due to a lack of motivation, the repo will still be monitored so PRs are still very welcome.
+
+
 # 🎬 PremiereProMute
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue?style=flat&logo=github)
